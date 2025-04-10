@@ -1,10 +1,5 @@
 <h1 align="center">Laravel Vue Admin Stats Board</h1>
 <h3 align="center">A SPA Vue admin Stats Board for Laravel projects.</h3>
-<p align="center">
-<a href="https://packagist.org/packages/balajidharma/laravel-vue-admin-panel"><img src="https://poser.pugx.org/balajidharma/laravel-vue-admin-panel/downloads" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/balajidharma/laravel-vue-admin-panel"><img src="https://poser.pugx.org/balajidharma/laravel-vue-admin-panel/v/stable" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/balajidharma/laravel-vue-admin-panel"><img src="https://poser.pugx.org/balajidharma/laravel-vue-admin-panel/license" alt="License"></a>
-</p>
 
 <p>
 A powerful, modern admin dashboard built with Laravel and Vue.js. It offers real-time statistics, dynamic data visualization, and intuitive management tools — perfect for monitoring and controlling web applications with ease.
