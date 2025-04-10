@@ -1,12 +1,18 @@
-<h1 align="center">Laravel Vue Admin Panel</h1>
-<h3 align="center">A Single page Vue admin panel for Laravel projects.</h3>
+<h1 align="center">Laravel Vue Admin Stats Board</h1>
+<h3 align="center">A SPA Vue admin Stats Board for Laravel projects.</h3>
 <p align="center">
 <a href="https://packagist.org/packages/balajidharma/laravel-vue-admin-panel"><img src="https://poser.pugx.org/balajidharma/laravel-vue-admin-panel/downloads" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/balajidharma/laravel-vue-admin-panel"><img src="https://poser.pugx.org/balajidharma/laravel-vue-admin-panel/v/stable" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/balajidharma/laravel-vue-admin-panel"><img src="https://poser.pugx.org/balajidharma/laravel-vue-admin-panel/license" alt="License"></a>
 </p>
 
-[![Laravel VUE admin panel preview](https://user-images.githubusercontent.com/6037466/184547401-1c481008-e013-4ba0-b9a8-3eaf3ff7b9a1.png)](https://github.com/balajidharma/laravel-vue-admin-panel)
+<p>
+A powerful, modern admin dashboard built with Laravel and Vue.js. It offers real-time statistics, dynamic data visualization, and intuitive management tools — perfect for monitoring and controlling web applications with ease.
+</p>
+
+[![Laravel VUE admin stats board preview](https://user-images.githubusercontent.com/6037466/184547401-1c481008-e013-4ba0-b9a8-3eaf3ff7b9a1.png)](https://github.com/balajidharma/laravel-vue-admin-panel)
+
+
 
 ## Built with
 - [Laravel 12](https://github.com/laravel/framework)
