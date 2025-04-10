@@ -8,6 +8,20 @@ A powerful, modern admin dashboard built with Laravel and Vue.js. It offers real
 [![Laravel VUE admin stats board preview](https://user-images.githubusercontent.com/6037466/184547401-1c481008-e013-4ba0-b9a8-3eaf3ff7b9a1.png)](https://github.com/balajidharma/laravel-vue-admin-panel)
 
 
+Features:
+
+🚀 Seamless Laravel backend integration
+
+📊 Interactive Vue.js-powered charts and graphs
+
+🛠️ Modular, extendable component system
+
+🔒 Secure authentication and role-based access
+
+🎨 Responsive and customizable UI
+
+⚡ Real-time updates with Laravel Echo (optional)
+
 
 ## Built with
 - [Laravel 12](https://github.com/laravel/framework)
